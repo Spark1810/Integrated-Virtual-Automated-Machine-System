@@ -6,5 +6,5 @@ Here the virtual assistance itself will create the database once the code gets e
 
 - USER INTERFACE ( Figma Link ) : https://www.figma.com/file/yoBbcHje19AieHLNGj9M8C/Untitled?node-id=0%3A1&t=0D2oDwycfUDnLZcJ-1
 - PPT Link                      : https://tinyurl.com/TrisVirtualAssistant
-- Video Reference               : https://tinyurl.com/TrisExpVideo
+- Video Reference               : https://drive.google.com/file/d/1YGSC7zHgAOeNJONsanG18CpR15mpp3Wc/view?usp=sharing
 - Drive Link                    : https://drive.google.com/file/d/14LsqOlbV2ysjgmPCEAoJramuIX3cQsVN/view?usp=sharing
