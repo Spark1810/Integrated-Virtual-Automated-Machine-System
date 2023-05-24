@@ -193,7 +193,6 @@ for c in vb:
         
 #                                       n2 is the name of the user and num is the id
 
-
 #---------------------------------------------------------------------- Telling time and greeting
 
 time.sleep(1)
