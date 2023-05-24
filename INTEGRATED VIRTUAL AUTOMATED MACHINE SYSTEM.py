@@ -49,6 +49,7 @@ def voice(txt):
 
 numwe = 1
 numwe2=1
+
 def tvoice2(output):
     global numwe
 
