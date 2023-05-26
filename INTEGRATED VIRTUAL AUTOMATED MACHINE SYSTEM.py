@@ -5,7 +5,7 @@ import speech_recognition as sr;
 import os
 import subprocess
 import screen_brightness_control as sbc
-import pprint
+import pprint 
 from playsound import playsound
 from pprint import pprint
 from gtts import gTTS
