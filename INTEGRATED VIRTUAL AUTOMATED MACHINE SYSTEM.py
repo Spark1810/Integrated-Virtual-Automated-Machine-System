@@ -9,7 +9,7 @@ import pprint
 from playsound import playsound
 from pprint import pprint
 from gtts import gTTS
-import pyttsx3;
+import pyttsx3
 from googletrans import Translator, constants
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
