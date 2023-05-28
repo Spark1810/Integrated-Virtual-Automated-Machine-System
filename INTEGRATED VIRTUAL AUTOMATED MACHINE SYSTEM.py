@@ -4,7 +4,7 @@ import mysql.connector;
 import speech_recognition as sr
 import os 
 import subprocess 
-import screen_brightness_control as sbc  
+import screen_brightness_control as sbc
 import pprint 
 from playsound import playsound
 from pprint import pprint
