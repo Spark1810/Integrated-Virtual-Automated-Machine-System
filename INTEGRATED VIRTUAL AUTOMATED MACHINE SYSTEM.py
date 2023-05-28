@@ -2,7 +2,7 @@ import pyttsx3;
 import time;
 import mysql.connector;
 import speech_recognition as sr
-import os
+import os 
 import subprocess 
 import screen_brightness_control as sbc 
 import pprint 
